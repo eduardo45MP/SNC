@@ -1,4 +1,8 @@
 # SNC
-Secure Network Configuration
+## Secure Network Configuration
 
-A basic network setup with a focus on security. Exploring firewall settings, VPN, and security policies to understand how to protect a network.
+## Overview
+Secure Network Configuration is a project that focous on estabilishing a secure network setup. This includes exploring firewall settings, implementing VPN (Virtual private Network), and defining security policies to enhance network protection.
+
+## Features
+- **Firewall Configuration:** Details on how to configure and optimazes firewall settings forimproved security.
