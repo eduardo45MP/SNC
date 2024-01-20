@@ -20,8 +20,5 @@ Follow these steps to set up a secure network using the Secure Network Configura
 3. **Security Policies:**
    - [Creating and Enforcing Security Policies](security_policies.md)
 
-## Contributing
-If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
