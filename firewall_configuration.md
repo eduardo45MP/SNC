@@ -85,4 +85,3 @@ deny from any to any
 - `from any to any`: Specifies that traffic from any source to any destination is denied. This is a default rule that blocks all incoming traffic unless there are specific rules above it that explicitly allow certain traffic. It's a security best practice to have a default deny rule to restrict unauthorized access.
 
 These rules represent a basic firewall setup where incoming HTTP traffic to the web server in the DMZ is allowed, outgoing traffic from the internal network is allowed, and all other incoming traffic is denied by default. Remember to adapt these rules according to your specific network architecture and security requirements.
-```
