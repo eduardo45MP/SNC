@@ -1,6 +1,3 @@
-Certainly! Here's the formatted version of your firewall configuration document:
-
-```markdown
 # Firewall Configuration
 
 This guide outlines the steps to configure and optimize the firewall settings for enhanced network security in the Secure Network Configuration project.
