@@ -12,7 +12,6 @@ This guide outlines the steps to configure and optimize the firewall settings fo
 4. [Example Firewall Rules](#example-firewall-rules)
 5. [Testing](#testing)
 6. [Troubleshooting](#troubleshooting)
-7. [References](#references)
 
 ## Introduction
 
@@ -120,16 +119,4 @@ If you encounter issues during the firewall configuration or testing phase, refe
 
 5. **Collaborate with Network Administrators:**
    - If troubleshooting becomes complex, collaborate with network administrators or security experts for additional insights.
-
-## References
-
-Here are some additional references that may be helpful for understanding and configuring firewall settings:
-
-1. [Official Firewall Documentation](https://firewall-vendor.com/documentation)
-   - Access the official documentation for your firewall technology for in-depth information and best practices.
-
-2. [Network Security Best Practices](https://www.securitybestpractices.com)
-   - Explore general best practices for network security, which can complement your firewall configuration.
-
-3. [Understanding Firewall Logs](https://www.loganalysisguide.com/firewall-logs)
    - Learn more about interpreting firewall logs to enhance your monitoring and troubleshooting capabilities.
