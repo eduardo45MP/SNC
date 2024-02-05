@@ -133,6 +133,3 @@ Here are some additional references that may be helpful for understanding and co
 
 3. [Understanding Firewall Logs](https://www.loganalysisguide.com/firewall-logs)
    - Learn more about interpreting firewall logs to enhance your monitoring and troubleshooting capabilities.
-
-Remember to adapt these sections based on your specific firewall technology and project requirements.
-
